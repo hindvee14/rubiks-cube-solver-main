@@ -1,1 +1,1 @@
-# rubiks-cube-solver
+Rubiks-cube-solver | Self Project
